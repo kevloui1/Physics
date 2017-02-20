@@ -1,4 +1,4 @@
-## Zero
+# Zero
 <img src="https://www.flipitphysics.com/Content/smartPhysics/Media/Images/EM/IE/zero/pic.gif">  
 Two charges are fixed in place on the \[x\]-axis as shown. 
 
