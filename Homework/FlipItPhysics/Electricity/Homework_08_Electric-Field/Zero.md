@@ -11,10 +11,10 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 
 [[zero.png]]**I'm too lazy to get the image**
 
-* 0 =
-|k (Q)(x<sub>0</sub><sup>2</sup>)|
-|-------------------|
-||
+* 0 = k
+|Q|  
+|---|
+|x<sub>0</sub><sup>2</sup>|
 -
 
 \left(\frac{ Q}{ \left(x + x<sub>0</sub>\right)x<sub>2</sub>\right)\right) \]
