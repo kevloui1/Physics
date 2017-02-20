@@ -18,11 +18,11 @@ What is \[E_x( P)\], the value of the \[x\]-component of the electric field
 produced by \[q_1\] and \[q_2\] at point \[P\]?
 
 * Let  
-  * \[&radic;<font size="-1">2b<sup>2</sup></font>\]
+  * \[d = &radic;<font size="-1">2b<sup>2</sup></font>\]
   
 
 
-  * \[d = \[\sqrt{ 2 d^2}\]
+  * \[r = &radiac;\[\sqrt{ 2 d^2}\]
   * \[\theta = 45\]
 * \[E_x( P) = k \frac{ q_1}{ r^2} \cos{ (\theta)} 
     = k \frac{ q_1}{ d^2} \cos{ (\theta)} = -1.44395 \times 10^6\]
