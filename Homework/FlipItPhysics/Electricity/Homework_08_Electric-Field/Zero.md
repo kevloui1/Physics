@@ -11,7 +11,7 @@ field is zero.
 
 [[zero.png]]
 
-* \[h = -28.9706\]
+* \[x<sup>0</sup> = -28.9706\]
   * \[0 = k \left(\left(\frac{ q_1}{ h^2}\right) - \left(\frac{ q_2}{ \left(r + h\right)^2\right)\right) \]
       * Solve for \[-h\]
 
