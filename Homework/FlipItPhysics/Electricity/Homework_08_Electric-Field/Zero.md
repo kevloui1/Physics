@@ -2,12 +2,12 @@
 Two charges are fixed in place on the \[x\]-axis as shown. 
 
 * Let 
-  * \[-q = -2.0&mu; c\] be the red charge on the left.
-  * Q = 4.0&mu; be the blue charge on the right.
-  * \[r = d = 12.0 cm\] be the destance be btween the charges.
+  * \[-q = -2.0&mu;\] be the red charge on the left.
+  * \[+Q = 4.0&mu;\] be the blue charge on the right.
+  * \[x = +d = 12.0 cm\] be the destance between the charges.
 
-Find \[x<sub>0</sub>\] along the \[x\]-axis such that the electric 
-field is zero.
+* Find
+  * a point \[x = x<sub>0</sub>\] along the \[x\]-axis at which the electric field is zero.
 
 [[zero.png]]
 
