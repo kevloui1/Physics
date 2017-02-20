@@ -18,7 +18,7 @@ What is \[E_x( P)\], the value of the \[x\]-component of the electric field
 produced by \[q_1\] and \[q_2\] at point \[P\]?
 
 * Let  
-  * \[&radic;<p style="font-family:courier;">2b<sup>2</sup></p>\]
+  * \[&radic;<font size="1">Font size="1"2b<sup>2</sup></font>\]
   
 
 
