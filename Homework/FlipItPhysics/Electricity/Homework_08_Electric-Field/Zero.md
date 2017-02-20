@@ -11,10 +11,8 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 
 [[zero.png]]**I'm too lazy to get the image**
 
-* 0 = k
-|Q|  
-|---|
-|x<sub>0</sub><sup>2</sup>|
+          Q
+* 0 = k ( Q&frasl;x<sub>0</sub><sup>2</sup>
 -
 
 \left(\frac{ Q}{ \left(x + x<sub>0</sub>\right)x<sub>2</sub>\right)\right) \]
@@ -46,6 +44,6 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-http://www.scriptingmaster.com/html/inserting-greek-letters.asp
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+http://www.scriptingmaster.com/html/inserting-greek-letters.asp  
 http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
