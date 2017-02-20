@@ -6,7 +6,7 @@ Two charges are fixed in place on the \[x\]-axis as shown.
   * \[Q = 4.0 &mu c\] be the blue charge on the right.
   * \[r = d = 12.0 cm\] be the destance be btween the charges.  
   
-&#924
+<html>&#924</html> vs <html>&mu</html>
 
 Find \[h\] along the \[x\]-axis such that the electric 
 field is zero.
