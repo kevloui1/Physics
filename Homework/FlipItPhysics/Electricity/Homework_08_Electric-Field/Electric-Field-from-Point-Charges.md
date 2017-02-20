@@ -19,7 +19,7 @@ produced by \[q_1\] and \[q_2\] at point \[P\]?
 
 * Let  
   * \[d = &radic;<font size="-1">2d<sup>2</sup></font>\]
-  * \[d = &radiac;{2d^2}\]
+  * \[d = &radic;{2d<sup>2</sup>}\]
   
   * \[\theta = 45\]
 * \[E_x( P) = k \frac{ q_1}{ r^2} \cos{ (\theta)} 
