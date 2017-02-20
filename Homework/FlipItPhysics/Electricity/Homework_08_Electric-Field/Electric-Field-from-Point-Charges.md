@@ -1,6 +1,6 @@
 # Electric Field from Point Charges
 <img src="https://www.flipitphysics.com/Content/smartPhysics/Media/Images/EM/02/h2_pointA.png">  
-Two point charges \[q_1 = -2.8&muC;\] and \[q_2 = 8.3&muC;\]
+Two point charges \[q<sub>1</sub> = -2.8&muC;\] and \[q<sub>2</sub> = 8.3&muC;\]
 are fixed along the \[x\]-axis, separated by a distance \[d = 9.2cm\]. 
 Point \[P\] is located at \[(x,y) = (d,d)\].
 
