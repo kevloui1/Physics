@@ -9,11 +9,10 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 * Find
   * a point \[x = x<sub>0</sub>\] along the \[x\]-axis at which the electric field is zero.
 
-[[zero.png]]**I'm too lazy to get the image**
+[[zero.png]] **I'm too lazy to get the image**
 
-          Q
-* 0 = k ( Q&frasl;x<sub>0</sub><sup>2</sup>
--
+* 0 = k ( Q &frasl; x<sub>0</sub><sup>2</sup> )
+
 
 \left(\frac{ Q}{ \left(x + x<sub>0</sub>\right)x<sub>2</sub>\right)\right) \]
       * Solve for \[x<sub>0</sub>\]
