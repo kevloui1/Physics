@@ -11,10 +11,18 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 
 [[zero.png]]**I'm too lazy to get the image**
 
-* 0 = k \left(\left(\frac{ Q}{ x<sub>0</sub><sup>2</sup>}\right) - \left(\frac{ Q}{ \left(x + x<sub>0</sub>\right)x<sub>2</sub>\right)\right) \]
+* 0 =
+|k (Q)(x<sub>0</sub><sup>2</sup>)|
+|-------------------|
+||
+-
+
+\left(\frac{ Q}{ \left(x + x<sub>0</sub>\right)x<sub>2</sub>\right)\right) \]
       * Solve for \[x<sub>0</sub>\]
 * x<sub>0</sub> = -28.9706
-  
+
+
+\frac{ q_1}{ h^2} - \frac{ q_2}{r + h}^2
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
