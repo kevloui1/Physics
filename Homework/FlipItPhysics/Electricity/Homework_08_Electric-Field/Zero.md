@@ -45,3 +45,7 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+http://www.scriptingmaster.com/html/inserting-greek-letters.asp
+http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
