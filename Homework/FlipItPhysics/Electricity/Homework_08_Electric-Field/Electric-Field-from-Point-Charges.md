@@ -1,6 +1,8 @@
-## Electric Field from Point Charges
+# Electric Field from Point Charges
 <img src="https://www.flipitphysics.com/Content/smartPhysics/Media/Images/EM/02/h2_pointA.png">  
-Two charges are fixed in place on the \[x\]-axis as shown. 
+Two point charges \[q_1 = -4.1&mu\] and \[q_2 = 7.7&mu\]
+are fixed along the \[x\]-axis, separated by a distance \[r = 0.095m\]. 
+Point \[P\] is located at \[(x,y) = (d,d)\].
 
 * Let 
   * \[k = boltzmann constant] be 1.38
@@ -17,11 +19,9 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 * x<sub>0</sub> = -28.9706
 
 ------------------------------
-# Electric Field from Point Charges
 
-Two point charges \[q_1 = -4.1 \mu C\] and \[q_2 = 7.7 \mu C\]
-are fixed along the \[x\]-axis, separated by a distance \[ r = 0.095 m\]. 
-Point \[P\] is located at \[(x,y) = (d,d)\].
+
+
 
 [[electric_field_from_point_charges.png]]
 
