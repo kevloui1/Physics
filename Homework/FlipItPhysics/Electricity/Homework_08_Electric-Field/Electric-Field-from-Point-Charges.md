@@ -1,17 +1,27 @@
 # Electric Field from Point Charges
 <img src="https://www.flipitphysics.com/Content/smartPhysics/Media/Images/EM/02/h2_pointA.png">  
-Two point charges \[q_1 = -4.1&mu;\] and \[q_2 = 7.7&mu;\]
-are fixed along the \[x\]-axis, separated by a distance \[r = 0.095m\]. 
+Two point charges \[q_1 = -2.8&muC;\] and \[q_2 = 8.3&muC;\]
+are fixed along the \[x\]-axis, separated by a distance \[d = 9.2cm\]. 
 Point \[P\] is located at \[(x,y) = (d,d)\].
 
-* Let 
+* Let
+  * \[q_1 = -2.8&mu;C\]
+  * \[q_2 = 8.3&mu;C\]
+  * \[d = 0.092m\]
+  * \[P = (d, d)\]
   * \[k = boltzmann constant] be 1.38
-  * \[-q = 2.0&mu;\] be the magnitude of the ***negative*** red charge on the left.
-  * \[+Q = 4.0&mu;\] be the magnitude of the ***positive*** blue charge on the right.
-  * \[x = d = 12.0 cm\] be the destance between the charges.
+* Given
+  * \[E = k \frac{ Q}{ r^2}\]
+      * For point charges
+## 1)
+What is \[E_x( P)\], the value of the \[x\]-component of the electric field 
+produced by \[q_1\] and \[q_2\] at point \[P\]?
 
-* Find
-  * a point \[x = x<sub>0</sub>\] along the \[x\]-axis at which the electric field is zero.
+* Let
+  * \[r = \[\sqrt{ 2 d^2}\]
+  * \[\theta = 45\]
+* \[E_x( P) = k \frac{ q_1}{ r^2} \cos{ (\theta)} 
+    = k \frac{ q_1}{ d^2} \cos{ (\theta)} = -1.44395 \times 10^6\]
 
 * 0 = k \[ {q &frasl; (x<sub>0</sub>)<sup>2</sup> } - {Q &frasl; (x + x<sub>0</sub>)<sup>2</sup> } \]
 
@@ -22,27 +32,6 @@ Point \[P\] is located at \[(x,y) = (d,d)\].
 
 
 
-
-[[electric_field_from_point_charges.png]]
-
-* Let
-  * \[q_1 = -4.1 \mu C\]
-  * \[q_2 = 7.7 \mu C\]
-  * \[d = 0.095 m\]
-  * \[P = (d, d)\]
-* Given
-  * \[E = k \frac{ Q}{ r^2}\]
-      * For point charges
-
-## 1)
-What is \[E_x( P)\], the value of the \[x\]-component of the electric field 
-produced by \[q_1\] and \[q_2\] at point \[P\]?
-
-* Let
-  * \[r = \[\sqrt{ 2 d^2}\]
-  * \[\theta = 45\]
-* \[E_x( P) = k \frac{ q_1}{ r^2} \cos{ (\theta)} 
-    = k \frac{ q_1}{ d^2} \cos{ (\theta)} = -1.44395 \times 10^6\]
 
 ## 2)
 What is \[E_y( P)\], the value of the \[y\]-component of the electric field 
