@@ -4,8 +4,8 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 
 * Let 
   * \[k = boltzmann constant] be 1.38
-  * \[-q = 2.0&mu;\] be the magnitude of the ***negative*** red charge on the left.
-  * \[+Q = 4.0&mu;\] be the magnitude of the ***positive*** blue charge on the right.
+  * \[-q = 2.0&mu;C\] be the magnitude of the ***negative*** red charge on the left.
+  * \[+Q = 4.0&mu;C\] be the magnitude of the ***positive*** blue charge on the right.
   * \[x = d = 12.0 cm\] be the destance between the charges.
 
 * Find
