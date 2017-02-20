@@ -11,7 +11,7 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 
 [[zero.png]] **I'm too lazy to get the image**
 
-* 0 = k \[ {q &frasl; (x<sub>0</sub>)<sup>2</sup>} - {Q &frasl; (x + x<sub>0</sub>)<sup>2</sup>}\]
+* 0 = k \[ {q &frasl; (x<sub>0</sub>)<sup>2</sup> } - {Q &frasl; (x + x<sub>0</sub>)<sup>2</sup> } \]
 
       * Solve for \[x<sub>0</sub>\]
 * x<sub>0</sub> = -28.9706
