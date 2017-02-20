@@ -11,9 +11,9 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 
 [[zero.png]]**I'm too lazy to get the image**
 
-* \[0 = k \left(\left(\frac{ q_1}{ h^2}\right) - \left(\frac{ q_2}{ \left(r + h\right)^2\right)\right) \]
+* 0 = k \left(\left(\frac{ Q}{ x<sub>0</sub><sup>2</sup>}\right) - \left(\frac{ Q}{ \left(x + x<sub>0</sub>\right)x<sub>2</sub>\right)\right) \]
       * Solve for \[x<sub>0</sub>\]
-* \[x<sub>0</sub> = -28.9706\]
+* x<sub>0</sub> = -28.9706
   
 
 | Tables        | Are           | Cool  |
