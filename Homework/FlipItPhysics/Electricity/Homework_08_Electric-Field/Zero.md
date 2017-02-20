@@ -2,8 +2,8 @@
 Two charges are fixed in place on the \[x\]-axis as shown. 
 
 * Let 
-  * \[-q = -2.0&mu;\] be the red charge on the left.
-  * \[+Q = 4.0&mu;\] be the blue charge on the right.
+  * \[-q = 2.0&mu;\] be the magnitude of the ***negative\*** red charge on the left.
+  * \[+Q = 4.0&mu;\] be the magnitude of the ***positive*** blue charge on the right.
   * \[x = +d = 12.0 cm\] be the destance between the charges.
 
 * Find
