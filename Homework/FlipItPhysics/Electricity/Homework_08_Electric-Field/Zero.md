@@ -2,8 +2,8 @@
 Two charges are fixed in place on the \[x\]-axis as shown. 
 
 * Let 
-  * \[q<sub>0</sub> = -2.0 \alpha c\] be the red charge on the left.
-  * \[Q = 4.0 \mu c\] be the blue charge on the right.
+  * \[q<sub>0</sub> = -2.0 &alpha c\] be the red charge on the left.
+  * \[Q = 4.0 &mu c\] be the blue charge on the right.
   * \[r = d = 12.0 cm\] be the destance be btween the charges.
 
 Find \[h\] along the \[x\]-axis such that the electric 
