@@ -22,7 +22,14 @@ Two charges are fixed in place on the \[x\]-axis as shown.
 * x<sub>0</sub> = -28.9706
 
 
-\frac{ q_1}{ h^2} - \frac{ q_2}{r + h}^2
+0 = k \frac{q}{ h^2} - k \frac{Q}{(r + h)^2}  
+vs  
+\[0 = k \left(\left(\frac{ q_1}{ h^2}\right) - \left(\frac{ q_2}{ \left(r + h\right)^2\right)\right) \]
+
+using
+
+https://www.codecogs.com/latex/eqneditor.php
+
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
